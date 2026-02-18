@@ -13,6 +13,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import org.jetbrains.compose.resources.painterResource
 import prueba_examen_georgemanuel.composeapp.generated.resources.Res
+import prueba_examen_georgemanuel.composeapp.generated.resources.logo
 
 @Composable
 fun PantallaEmpleo() {
